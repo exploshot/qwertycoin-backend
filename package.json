@@ -1,0 +1,30 @@
+{
+  "name": "qwertycoin-backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tests": "nodemon tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exploshot/qwertycoin-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exploshot/qwertycoin-backend/issues"
+  },
+  "homepage": "https://github.com/exploshot/qwertycoin-backend#readme",
+  "dependencies": {
+    "@types/node": "^12.7.2",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  },
+  "devDependencies": {
+    "standard": "^13.1.0",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  }
+}
