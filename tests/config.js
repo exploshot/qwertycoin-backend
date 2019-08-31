@@ -29,9 +29,9 @@
  */
 
 module.exports.nodes = [
-    "node-00.qwertycoin.org:8197",
-    "node-02.qwertycoin.org:8197",
-    "node-01.qwertycoin.org:8197"
-//    "localhost:8197",
+//   "node-00.qwertycoin.org:8197",
+//    "node-02.qwertycoin.org:8197",
+//    "node-01.qwertycoin.org:8197"
+    "localhost:8197"
 //    "superblockchain.con-ip.com:8197"
 ];
